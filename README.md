@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dixit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web and app developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dparmar006&label=Profile%20views&color=0e75b6&style=flat" alt="dparmar006" /> </p>
 
@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [dparmar006.github.io](dparmar006.github.io)
 
-- 💬 Ask me about **Reactjs,**
+- 💬 Ask me about **Reactjs**
 
 - 📫 How to reach me **dparmar6698@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1EBRJTXQ3JM-OSE4WzHFLqO1fAEgy-di-cRtavu1dcfc/edit?usp=drivesdk](https://docs.google.com/document/d/1EBRJTXQ3JM-OSE4WzHFLqO1fAEgy-di-cRtavu1dcfc/edit?usp=drivesdk)
+- 📄 view my [Resume](https://docs.google.com/document/d/1EBRJTXQ3JM-OSE4WzHFLqO1fAEgy-di-cRtavu1dcfc/edit?usp=drivesdk)
 
 - ⚡ Fun fact **I love to try new frameworks and technologies ✨**
 
