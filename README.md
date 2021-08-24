@@ -9,8 +9,7 @@
 
 - 🌱 I’m currently learning **Express.js, flutter**
 
-- 👨‍💻 View my portfolio [Portfolio]
-(https://dparmar006.github.io/)
+- 👨‍💻 View my portfolio [Portfolio](https://dparmar006.github.io/)
 - 💬 Ask me about **Reactjs**
 
 - 📫 How to reach me **dparmar6698@gmail.com**
