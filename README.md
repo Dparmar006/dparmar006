@@ -62,7 +62,5 @@ Passionate about building scalable web ecosystems, re-architecting legacy system
 ### 📫 Connect with me
 - 📧 [dparmar6698@gmail.com](mailto:dparmar6698@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/dixit-parmar/)
-- 🌐 [Portfolio/Website](https://www.docutrak.net) *(Or your personal link)*
-
 ---
 *“Optimizing the web, one endpoint at a time.”*
